@@ -50,10 +50,11 @@ experience, and achievements.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bigun_Kavishka&show_icons=true&theme=tokyonight)
+![Followers](https://img.shields.io/github/followers/bigunkavishka?style=for-the-badge&logo=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigun_Kavishka&layout=compact&theme=tokyonight)
+![Stars](https://img.shields.io/github/stars/bigunkavishka?style=for-the-badge&logo=github)
 
+![Profile Views](https://komarev.com/ghpvc/?username=bigunkavishka&style=for-the-badge)
 ## 🤝 Connect With Me
 
 <p>
