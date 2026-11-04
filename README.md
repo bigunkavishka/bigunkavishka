@@ -50,15 +50,9 @@ experience, and achievements.
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bigunkavishka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bigun_Kavishka&show_icons=true&theme=tokyonight)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigunkavishka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigun_Kavishka&layout=compact&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
