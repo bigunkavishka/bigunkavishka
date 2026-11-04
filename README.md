@@ -55,15 +55,16 @@ Motto: "Never Stop Learning 🚀"
 ---
 
 
+
 ## 🚀 Featured Project
 
 <div align="center">
 
-### 🌐 Personal Portfolio Website
+<a href="https://github.com/bigunkavishka/Personal-Portfolio-Website">
+  <img src="https://img.shields.io/badge/🌐_Personal_Portfolio-View_Project-2F81F7?style=for-the-badge" />
+</a>
 
-My personal portfolio website built using HTML.
-
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-Visit%20Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/bigunkavishka/Personal-Portfolio-Website)
+**Built with HTML | Personal Web Development Project**
 
 </div>
 
@@ -109,13 +110,17 @@ My personal portfolio website built using HTML.
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/bigunkavishka/bigunkavishka/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-
+  <img
+    src="https://raw.githubusercontent.com/bigunkavishka/bigunkavishka/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </div>
+
 
 ---
 
