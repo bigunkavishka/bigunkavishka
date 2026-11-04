@@ -30,17 +30,31 @@ jobs:
           filename: github-metrics.svg
           committer_branch: main
 
+         
           extras_css: |
-            body {
-              background: #0b1020 !important;
-              color: #e5e7eb !important;
-              font-family: 'Segoe UI', sans-serif !important;
-            }
-
             h1, h2, h3 {
               color: #c4b5fd !important;
             }
 
             a {
               color: #a78bfa !important;
+            }
+
+          extras_js: |
+            const svg = document.querySelector("svg");
+
+            if (svg && !svg.querySelector("#metrics-background")) {
+              const bg = document.createElementNS(
+                "http://www.w3.org/2000/svg",
+                "rect"
+              );
+
+              bg.setAttribute("id", "metrics-background");
+              bg.setAttribute("x", "0");
+              bg.setAttribute("y", "0");
+              bg.setAttribute("width", "100%");
+              bg.setAttribute("height", "100%");
+              bg.setAttribute("fill", "#0b1020");
+
+              svg.insertBefore(bg, svg.firstChild);
             }
