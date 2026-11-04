@@ -103,14 +103,16 @@ Motto: "Never Stop Learning 🚀"
 ---
 
 
-## 🐍 Contribution Snake
+## 🦉 Night Owl Contribution Snake
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/bigunkavishka/bigunkavishka/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/bigunkavishka/bigunkavishka/output/github-snake-night-owl.svg"
+    alt="Night Owl Snake Animation"
     width="100%"
   />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=C792EA&center=true&vCenter=true&width=500&lines=%F0%9F%A6%89+Night+Owl+Mode+ON;Coding+while+the+world+sleeps+%F0%9F%8C%99;Commit+at+3AM,+fix+bugs+at+4AM" alt="Night Owl typing" />
 </div>
 
 
