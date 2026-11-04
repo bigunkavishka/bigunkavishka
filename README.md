@@ -67,10 +67,6 @@ Motto: "Never Stop Learning 🚀"
 **Built with HTML | Personal Web Development Project**
 
 </div>
-
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
