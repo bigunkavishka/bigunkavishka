@@ -60,6 +60,7 @@ Motto: "Never Stop Learning 🚀"
 
 ---
 
+
 ## 🚀 Featured Project
 
 <div align="center">
@@ -68,45 +69,47 @@ Motto: "Never Stop Learning 🚀"
 
 My personal portfolio website built using HTML.
 
-<a href="https://github.com/bigunkavishka/Personal-Portfolio-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bigunkavishka&repo=Personal-Portfolio-Website&theme=tokyonight&hide_border=true" />
-</a>
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-Visit%20Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/bigunkavishka/Personal-Portfolio-Website)
 
 </div>
 
+
 ---
+
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bigunkavishka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=bigunkavishka&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=bigunkavishka&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=bigunkavishka&theme=tokyonight&hide_border=true" width="48%" />
 
-<br/><br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigunkavishka&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigunkavishka&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
+
 ---
+
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bigunkavishka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=bigunkavishka&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
 
 </div>
 
+
 ---
+
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bigunkavishka&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bigunkavishka&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
