@@ -22,8 +22,25 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Colombo
+          config_animations: yes
+          config_padding: 16, 16
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           filename: github-metrics.svg
           committer_branch: main
+
+          extras_css: |
+            body {
+              background: #0b1020 !important;
+              color: #e5e7eb !important;
+              font-family: 'Segoe UI', sans-serif !important;
+            }
+
+            h1, h2, h3 {
+              color: #c4b5fd !important;
+            }
+
+            a {
+              color: #a78bfa !important;
+            }
